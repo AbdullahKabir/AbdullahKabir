@@ -6,7 +6,7 @@ I am a Master's Student doing my master's in Web and Data Science. Also I am cur
 - 👯 I’m looking to collaborate on API creation with Flask 
 - 💬 Ask me about python 🧑 
 - 📫 How to reach me: abdullah.kabir12@gmail.com
-- 🌐 Website : https://abdullahkabir.com [ Under ddevelopment ]
+- 🌐 Website : https://abdullahkabir.com [ Under development ]
 - ⚡ Fun fact: I love photography
 
 
